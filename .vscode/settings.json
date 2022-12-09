@@ -1,4 +1,5 @@
 {
     "files.autoSave": "onWindowChange",
-    "git.enableSmartCommit": true
+    "git.enableSmartCommit": true,
+    "workbench.view.alwaysShowHeaderActions": true
 }
