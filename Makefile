@@ -24,6 +24,7 @@ all: $(VPKNAME).vpk
 	-a main.self=main.self -a cfgu.suprx=plugins/cfgu_v05.suprx -a cfgk.skprx=plugins/cfgk_v05.skprx \
 	-a res/icon0.png=sce_sys/icon0.png \
 	-a res/icon1.png=sce_sys/icon1.png \
+	-a res/icon1.png=sce_sys/icon1.png \
 	-a res/pic0.png=sce_sys/pic0.png \
 	-a res/template.xml=sce_sys/livearea/contents/template.xml \
 	-a res/hen.png=sce_sys/livearea/contents/hen.png \
